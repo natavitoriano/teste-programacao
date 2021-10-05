@@ -1,0 +1,1 @@
+export const ACTION_MESSAGE = 'ACTION_MESSAGE';
